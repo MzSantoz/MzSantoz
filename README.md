@@ -47,6 +47,12 @@ PS.: Skill Mode Inspiration - [@gb8may](https://www.github.com/gb8may)
 <a href="https://github.com/mzsantoz/mzsantoz-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=mzsantoz-blog&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/devops">
+<a href="https://github.com/mzsantoz/devops">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=devops&theme=dracula" />
+</a>
+<a href="https://github.com/mzsantoz/awesome-compose">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=awesome-compose&theme=dracula" />
+</a>
+<a href="https://github.com/mzsantoz/kubernetes-deploy-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=kubernetes-deploy-go&theme=dracula" />
 </a>
