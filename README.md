@@ -16,7 +16,7 @@
 ### 💻 Skills:
 - ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Automation](https://img.shields.io/badge/-Automation-green) ![Network](https://img.shields.io/badge/-Network-brightgreen?&logo=Network&logoColor=FFFFFF)
 
-PS.: Credits to @gb8may
+PS.: Skill Mode Inspiration - (https://www.github.com/gb8may)[@gb8may]
 
 
 ### 🧰 Languages and Tools:
