@@ -44,9 +44,9 @@ PS.: Skill Mode Inspiration - [@gb8may](https://www.github.com/gb8may)
 
 ### Latest Repositories
 
-<a href="https://github.com/mzsantoz/nextjs-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=nextjs-boilerplate&theme=dracula" />
+<a href="https://github.com/mzsantoz/mzsantoz-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=mzsantoz-blog&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/mern-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=mern-blog&theme=dracula" />
+<a href="https://github.com/anuraghazra/devops">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=devops&theme=dracula" />
 </a>
