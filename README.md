@@ -13,8 +13,9 @@
 - 📫 How to reach me: [Twitter - @mzsantoz](https://www.twitter.com/mzsantoz) and [E-mail - mzsantoz@outlook.com](mailto:mzsantoz@outlook.com)
 - ⚡ Fun fact: I play PUBG and CS:GO frequently, add me in [Steam](https://steamcommunity.com/id/mzsantoz/) to play together =D
 
-### ⚡ Skills:
+### 💻 Skills:
 - ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Automation](https://img.shields.io/badge/-Automation-green) ![Network](https://img.shields.io/badge/-Network-brightgreen?&logo=Network&logoColor=FFFFFF)
+
 PS.: Credits to @gb8may
 
 
