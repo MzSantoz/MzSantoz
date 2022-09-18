@@ -39,7 +39,7 @@ PS.: Skill Mode Inspiration - [@gb8may](https://www.github.com/gb8may)
 ### Useful stats and informations
 [![MzSantoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MzSantoz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MzSantoz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MzSantoz&theme=dracula&exclude_repo=awesome-compose,cka)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Latest Repositories
 
