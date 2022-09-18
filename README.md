@@ -10,7 +10,7 @@
   - Creating lightweight and stunning dockerfiles
   - A little bit of terraform
   - Talking about AWS cost-saving setups
-- 📫 How to reach me: [Twitter - @mzsantoz](https://www.twitter.com/mzsantoz) and [E-mail - mzsantoz@outlook.com](mailto:mzsantoz@outlook.com)
+- 📫 How to reach me: [Twitter - @mzsantoz](https://www.twitter.com/mzsantoz) and [E-mail - me@mzsantoz.com](mailto:me@mzsantoz.com)
 - ⚡ Fun fact: I play PUBG and CS:GO frequently, add me in [Steam](https://steamcommunity.com/id/mzsantoz/) to play together =D
 
 ### 💻 Skills:
