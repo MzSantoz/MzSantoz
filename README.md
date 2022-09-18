@@ -1,17 +1,16 @@
 ### Welcome, I`m Moisés Santos - DevOps Engineer 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=MzSantoz.MzSantoz)[![Github](https://img.shields.io/github/followers/MzSantoz?label=Follow&style=social)](https://github.com/MzSantoz)
 
-- 🌱 I’m currently learning Rancher and Multicloud Deployment
+- 🌱 I’m currently improving my leadership skills and re-studying Kubernetes from a deeper side.
 - 👯 I’m looking to collaborate with anyone on any project (and translating to pt-br too)
 - 💬 I can help you with:
-  - AWS Tools (Ec2, Sec Groups, VPC, ECS, EKS, CodeDeploy, CloudFront, CodeBuild, S3, IAM, Cloudformation, Lambda, API Gateway...)
-  - Rancher for Kubernetes Orchestration
+  - AWS Architecturing (Ec2, Sec Groups, VPC, ECS, EKS, CodeDeploy, CloudFront, CodeBuild, S3, IAM, Cloudformation, Lambda, API Gateway...)
   - Discussing CI/CD strategies for your app
-  - Creating lightweight and stunning dockerfiles
-  - A little bit of terraform
+  - Creating lightweight and stunning Dockerfiles
+  - A little bit of Terraform
   - Talking about AWS cost-saving setups
 - 📫 How to reach me: [Twitter - @mzsantoz](https://www.twitter.com/mzsantoz) and [E-mail - me@mzsantoz.com](mailto:me@mzsantoz.com)
-- ⚡ Fun fact: I play PUBG and CS:GO frequently, add me in [Steam](https://steamcommunity.com/id/mzsantoz/) to play together =D
+- ⚡ Fun fact: I play PUBG and CS:GO sometimes, add me in [Steam](https://steamcommunity.com/id/mzsantoz/) to play together =D
 
 ### 💻 Skills:
 - ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Automation](https://img.shields.io/badge/-Automation-green) ![Network](https://img.shields.io/badge/-Network-brightgreen?&logo=Network&logoColor=FFFFFF)
@@ -44,11 +43,11 @@ PS.: Skill Mode Inspiration - [@gb8may](https://www.github.com/gb8may)
 
 ### Latest Repositories
 
-<a href="https://github.com/mzsantoz/mzsantoz-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=mzsantoz-blog&theme=dracula" />
+<a href="https://github.com/mzsantoz/aws-ec2-clitool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=aws-ec2-clitool&theme=dracula" />
 </a>
-<a href="https://github.com/mzsantoz/devops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=devops&theme=dracula" />
+<a href="https://github.com/mzsantoz/ec2-pgadmin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=ec2-pgadmin&theme=dracula" />
 </a>
 <a href="https://github.com/mzsantoz/awesome-compose">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MzSantoz&repo=awesome-compose&theme=dracula" />
