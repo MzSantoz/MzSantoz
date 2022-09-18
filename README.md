@@ -1,4 +1,4 @@
-### Welcome, I`m Moisés Santos - DevOps Engineer 👋
+### Welcome, I`m Moisés Santos - DevOps/Cloud Engineer and Project Manager 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=MzSantoz.MzSantoz)[![Github](https://img.shields.io/github/followers/MzSantoz?label=Follow&style=social)](https://github.com/MzSantoz)
 
 - 🌱 I’m currently improving my leadership skills and re-studying Kubernetes from a deeper side.
@@ -39,7 +39,7 @@ PS.: Skill Mode Inspiration - [@gb8may](https://www.github.com/gb8may)
 ### Useful stats and informations
 [![MzSantoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MzSantoz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MzSantoz&theme=dracula&exclude_repo=awesome-compose,cka)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MzSantoz&theme=dracula&exclude_repo=awesome-compose,cka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Latest Repositories
 
